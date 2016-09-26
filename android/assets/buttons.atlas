@@ -1,0 +1,89 @@
+
+buttons.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+redflash
+  rotate: false
+  xy: 0, 0
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+greenflash
+  rotate: false
+  xy: 0, 128
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+014
+  rotate: false
+  xy: 0, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 128, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 0, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 128, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 0, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 128, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 0, 640
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 128, 640
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 0, 768
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+000
+  rotate: false
+  xy: 128, 768
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
